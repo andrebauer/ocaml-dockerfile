@@ -11,4 +11,5 @@ Run with
 Inside the container run
 
 	eval `opam config env`
-	
+
+You can then use `utop` as repl.
