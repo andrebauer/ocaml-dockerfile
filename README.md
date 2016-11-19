@@ -4,6 +4,8 @@ Dockerfile for OCaml Development with ocaml 4.02.3 and the following opam packag
 
 core batteries utop ppx_deriving cohttp csv logs uri imagemagick oasis atdgen ocamlnet yojson menhir sedlex ppx_jane result rresult lwt cohttp ppx_deriving_yojson ocsigenserver eliom redis core-lwt
 
+The packages eliom, ocsigenserver and reactiveData are opam-pinned to their development repositories.
+
 Run with
 
 	docker run -it --rm andrebauer/ocaml
