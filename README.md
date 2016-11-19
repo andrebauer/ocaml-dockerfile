@@ -8,4 +8,4 @@ Run with
 
 	docker run -it --rm andrebauer/ocaml
 
-Inside the container run you can then use `utop` as ocaml-repl.
+Inside the container you can then use `utop` as ocaml-repl.
